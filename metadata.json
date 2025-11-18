@@ -1,0 +1,5 @@
+{
+  "name": "Zybrex: Text to Voice",
+  "description": "A text-to-voice application that leverages Gemini API for high-quality speech synthesis. It supports both single-speaker and multi-speaker (3 characters) text-to-speech with unique baby-like voices, all within a sleek, dark-green themed, professional user interface.",
+  "requestFramePermissions": []
+}
